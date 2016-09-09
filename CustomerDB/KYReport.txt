@@ -1,0 +1,48 @@
+Report Date: 04/06/2016
+
+                                 Kentucky Residents                                 
+
+Customer ID  Name                      City                 State      Birth Date     
+2840         Alan M Wells              Lexington            KY         7/24/1964      
+77           Albert D Williams         Williamsburg         KY         11/3/1987      
+483          Basil K Flanery           Owensboro            KY         4/24/1952      
+25           Caroline J Williams       Louisville           KY         7/29/1942      
+1271         Christopher K Diaz        Lexington            KY         3/10/1978      
+2081         Daniel P Johnson          Louisville           KY         7/19/1974      
+356          David L Mays              Cincinnati           KY         8/31/1964      
+1135         David J McKee             Elizabethtown        KY         10/14/1935     
+2139         Delores K Bryan           Madisonville         KY         11/5/1980      
+1057         Edward C Reiff            Covington            KY         7/16/1976      
+790          Fernando A Flores         Lexington            KY         8/25/1944      
+911          Francisco F Eich          Oak Grove            KY         3/17/1988      
+171          Gabriela K Dematteo       Cincinnati           KY         12/23/1956     
+837          Holly B Towns             Lexington            KY         5/2/1948       
+1362         Hope R French             Lexington            KY         3/25/1941      
+152          Irene F Lindsay           Owensboro            KY         4/5/1933       
+40           James S Brock             Bowling Green        KY         1/27/1995      
+1054         Jeffrey R Parker          Louisville           KY         4/15/1963      
+1490         Jessica C Armstrong       Madisonville         KY         4/10/1972      
+2495         Jessie D Sanborn          Paducah              KY         5/30/1954      
+1399         John N Vegas              Paducah              KY         11/25/1938     
+2885         Jose C Fulp               Madisonville         KY         5/29/1961      
+69           Karl J Whitson            Cincinnati           KY         11/14/1963     
+1484         Kasandra L Reed           Winchester           KY         2/9/1944       
+2812         Kay D Pifer               Louisville           KY         2/12/1959      
+1154         Kellie D Blood            Winchester           KY         3/30/1945      
+2042         Kendra R Oliver           Cincinnati           KY         5/12/1965      
+869          Leo K King                Lexington            KY         1/22/1968      
+2755         Marcos C Zink             Louisville           KY         6/9/1962       
+1975         Marcos L Wong             Burlington           KY         3/22/1987      
+1656         Mark F Lambert            Lexington            KY         3/22/1954      
+511          Mary F Leonard            Paducah              KY         7/30/1973      
+864          Melvin D Blocker          Cincinnati           KY         7/30/1966      
+656          Norman J Mayfield         Lexington            KY         3/30/1949      
+1133         Phillip L Pannell         Tollesboro           KY         11/22/1991     
+1825         Regena D French           Manchester           KY         11/2/1983      
+276          Robert B Williams         Covington            KY         11/30/1969     
+1009         Samuel A McKinney         Louisville           KY         7/14/1977      
+2660         Susan G Gillies           Burkesville          KY         6/14/1967      
+1081         Teresa J Strode           Lexington            KY         5/3/1941       
+317          Timothy C Alexander       Lexington            KY         11/11/1993     
+
+Number of Kentucky Residents:		41

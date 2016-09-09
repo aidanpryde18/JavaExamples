@@ -1,0 +1,53 @@
+Report Date: 03/09/2016
+
+                              All Students                              
+
+ID      | First Name   | Last Name    | City         | State | Zip    
+--------------------------------------------------------------------
+23111   | Simon        | Smithers     | Louisa       | KY    | 41230  
+23445   | Sadie        | Washington   | Frankfort    | KY    | 40601  
+23452   | McKayla      | Trucker      | Georgetown   | KY    | 40324  
+04456   | Hayley       | Smith        | Lexington    | KY    | 40506  
+31133   | Phoebe       | Harrison     | Lexington    | KY    | 40509  
+03124   | Corinne      | Polly        | Frankfort    | KY    | 40601  
+23478   | Aidan        | Travis       | Frankfort    | KY    | 40601  
+24466   | Katrina      | Franklin     | Frankfort    | KY    | 40601  
+25478   | McKenzie     | Adams        | Lexington    | KY    | 40506  
+27578   | Faith        | Hernandez    | Frankfort    | KY    | 40601  
+85675   | Shelby       | Jones        | Frankfort    | KY    | 40601  
+66234   | Rhonda       | Smithsonian  | Georgetown   | KY    | 40324  
+35490   | Mackenzie    | Smith        | Frankfort    | KY    | 40601  
+88865   | Colin        | Black        | Lexington    | KY    | 40506  
+23454   | Zack         | Cheek        | Frankfort    | KY    | 40601  
+00865   | Anya         | Baldwin      | Lexington    | KY    | 40509  
+00121   | Grace        | Jones        | Lawrenceburg | KY    | 40342  
+12414   | April        | Hernandez    | Frankfort    | KY    | 40601  
+34568   | Lauren       | Meeks        | Frankfort    | KY    | 40601  
+00006   | Daniel       | Crisp        | Frankfort    | KY    | 40601  
+33876   | Kayla        | Bigg         | Lexington    | KY    | 40506  
+11111   | Morgan       | Cheek        | Georgetown   | KY    | 40324  
+33541   | Austin       | Adams        | Frankfort    | KY    | 40601  
+09867   | Sydney       | Brooks       | Frankfort    | KY    | 40601  
+35632   | Aubree       | Travix       | Lexington    | KY    | 40509  
+22231   | Noah         | Adams        | Frankfort    | KY    | 40601  
+55533   | Hannah       | Lincoln      | Georgetown   | KY    | 40324  
+45689   | Samara       | Moore        | Frankfort    | KY    | 40601  
+89765   | John         | Noel         | Frankfort    | KY    | 40601  
+48452   | Madison      | Adams        | Frankfort    | KY    | 40601  
+90021   | Jamison      | Garrison     | Georgetown   | KY    | 40324  
+58844   | Haylee       | Harris       | Lexington    | KY    | 40509  
+65662   | Walker       | Flowers      | Frankfort    | KY    | 40601  
+55557   | Chance       | Washington   | Lawrenceburg | KY    | 40342  
+11324   | Chase        | Hogg         | Frankfort    | KY    | 40601  
+45674   | Christian    | Harrison     | Lawrenceburg | KY    | 40342  
+11234   | Adrian       | Franklin     | Lexington    | KY    | 40506  
+55555   | Rebekah      | Goodlette    | Frankfort    | KY    | 40601  
+56578   | Zach         | Davidson     | Georgetown   | KY    | 40324  
+11665   | Lexi         | Goode        | Frankfort    | KY    | 40601  
+42244   | Mallie       | Jones        | Frankfort    | KY    | 40601  
+97542   | Breanna      | Wilson       | Georgetown   | KY    | 40324  
+12345   | Macy         | Black        | Frankfort    | KY    | 40601  
+89887   | Katelin      | Brooks       | Frankfort    | KY    | 40601  
+
+Total Number of Students:	44
+Average GPA of Students:	3.06

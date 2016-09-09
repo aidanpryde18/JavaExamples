@@ -1,0 +1,41 @@
+Report Date: 03/30/2016
+
+                         Student Registration                    
+
+Student ID      Student Name              Student Major        Courses   
+
+23452           McKayla Trucker                CSC             HIS108
+                                                               MAT114
+                                                               CIT249
+                                                               ENG102
+
+23478           Aidan Travis                   CSC             HIS108
+                                                               POL120
+                                                               CIT149
+                                                               ENG101
+
+33541           Austin Adams                   MAT             MAT113
+                                                               ENG101
+                                                               HIS108
+
+45674           Christian Harrison             ACC             CIT149
+                                                               ENG102
+                                                               POL120
+
+55557           Chance Washington              SPA             ENG101
+                                                               HIS109
+                                                               MAT213
+                                                               SPA101
+
+58844           Haylee Harris                  SPA             HIS109
+                                                               MAT113
+                                                               POL110
+                                                               SPA201
+
+89887           Katelin Brooks                 MGT             CIT105
+                                                               HIS109
+                                                               POL110
+                                                               SPA102
+
+Number of Students Enrolled:		7
+Count of Enrollment in Classes:		26
